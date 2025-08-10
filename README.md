@@ -2,17 +2,12 @@
 
 A modern, responsive web application for discovering delicious and healthy recipes. Users can search for recipes by ingredient, view detailed instructions with images, and enjoy a clean, animated user interface built with the latest web technologies.
 
-[![Vercel Status](https://vercel.com/rubina557/recipe-finder-app/badge)](https://recipe-finder-app-rust.vercel.app)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 
 ---
 
 ### [**➥ View Live Demo**](https://recipe-finder-app-rust.vercel.app)
 
-![Plateful Recipe Finder Screenshot](./public/screenshot.png)  
-*(**Action Required:** Take a beautiful screenshot of your finished app, name it `screenshot.png`, and place it in your `public` folder for this image to appear.)*
-
----
 
 ## ✨ Key Features
 
